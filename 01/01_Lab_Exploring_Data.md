@@ -1,12 +1,3 @@
----
-title: '01 Lab: Exploring Data'
-documentId: 1hCSmktogGBXi9BKtIriAhyyE-_z7srFOewQGp6MxlrU
-revisionId: ALBJ4LuCBTErpzN73-aU-4pPrXzPJQzG0OvDpm_HZ6in_vvEhK_fNjWytUIqXlKThQW4ncqQUkdhh7wYeCGJnQ
-documentLink: https://docs.google.com/document/d/1hCSmktogGBXi9BKtIriAhyyE-_z7srFOewQGp6MxlrU/
----
-  
-<a id="h.68b5tn4wa92h" name="h.68b5tn4wa92h"></a>
-
 ### DMV: Exploratory Data Visualisations
 
 _Week 1: Introduction_&nbsp;

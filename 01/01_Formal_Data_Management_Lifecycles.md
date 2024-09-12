@@ -1,12 +1,3 @@
----
-title: '01 Formal Data Management Lifecycles'
-documentId: 1UoJ_yQkmfYUgJbbK47rHN5saMyy433RZFVAaV4x1i_I
-revisionId: ALBJ4LufS2bKdmWVqXnDCtewcTqcsNkvWCy9xeXoO-G4VgMO11OYY_MkTYChf8XgFVAyUFahrm9GLNLh5pyGMA
-documentLink: https://docs.google.com/document/d/1UoJ_yQkmfYUgJbbK47rHN5saMyy433RZFVAaV4x1i_I/
----
-  
-<a id="h.p9f4zmigznf3" name="h.p9f4zmigznf3"></a>
-
 ## Formal data management lifecycles
 
 
