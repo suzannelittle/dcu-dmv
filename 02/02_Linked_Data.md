@@ -1,19 +1,10 @@
----
-title: '02 Linked Data'
-documentId: 1QO8jSil8EtDtO0-ET4VQ8C-cgjiHyDJcYmeGNCK-IBM
-revisionId: ALBJ4LvSPJWNWMg2EbGC6omsHEcPcYELfeC-Q1M8XqSD8QmHLxO63_w_1TqNndYphj7HHZJnwk5eTndxoTzjCw
-documentLink: https://docs.google.com/document/d/1QO8jSil8EtDtO0-ET4VQ8C-cgjiHyDJcYmeGNCK-IBM/
----
-  
-<a id="h.yo5mwvx2dzn" name="h.yo5mwvx2dzn"></a>
-
 ## Linked Data 
 
 Suzanne Little, [suzanne.little@dcu.ie](mailto:suzanne.little@dcu.ie)
 
 Another way that data can be made open and accessible is to use Linked Data. Linked data arose from the efforts to create machine understandable linked information using the infrastructure and standards from the world wide web \(See Figure 1 below\).
 
-![image](../../../images/02_Linked_Data/1.png)
+![image](../images/02_Linked_Data/1.png)
 
 _Figure 1: The Linked Open Data Cloud represents some of the publically available linked datasets \(explore the interactive and most recent version_&nbsp;_[here](https://lod-cloud.net/)._
 
@@ -30,7 +21,7 @@ The key components of linked data that you should understand are:
 
 See Figure 2 below for the components that make up a common URI.
 
-![image](../../../images/02_Linked_Data/2.png)
+![image](../images/02_Linked_Data/2.png)
 
 _Figure 2: Components that make up a common URI string_&nbsp;
 
@@ -47,7 +38,7 @@ The URI includes the scheme \(eg: http/https\), the authority \(domain or host o
 
 Figure 3 provides examples of linked data triples below.
 
-![image](../../../images/02_Linked_Data/3.png)
+![image](../images/02_Linked_Data/3.png)
 
 _Figure 3: Example of linked data triples \[[Source](https://www.slideshare.net/mediasemanticweb/linked-data-michael-hausenblas-2009-03-05)\]._&nbsp;
 

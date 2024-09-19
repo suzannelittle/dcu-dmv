@@ -1,12 +1,3 @@
----
-title: '02 Open Data'
-documentId: 1GS1r8_dofiHDLzjgBDm_fCWZptIsqWDLGOJ0oDqSncc
-revisionId: ALBJ4LsvuOBzKy586VeGgG-41CHy0HRUO204pSZh_0U6TdTthef9EZecBEwiBgsPp9g0t8nS9jK8jqqHboUc7g
-documentLink: https://docs.google.com/document/d/1GS1r8_dofiHDLzjgBDm_fCWZptIsqWDLGOJ0oDqSncc/
----
-  
-<a id="h.ee3y46j3b84f" name="h.ee3y46j3b84f"></a>
-
 ## Open Data
 
 _Suzanne Little, suzanne.little@dcu.ie_&nbsp;

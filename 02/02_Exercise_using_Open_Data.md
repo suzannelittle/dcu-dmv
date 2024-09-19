@@ -1,12 +1,3 @@
----
-title: '02 Exercise using Open Data'
-documentId: 1X1g0wU6riHyTbWuvIYP_4eU4hqVQOUCNzShjRvHuXh4
-revisionId: ALBJ4LvQJKhNsGrmYJo3Q4X8zrJ7lvcFS8W_FaYTVFHR4ruJazg3v-5BBHYki4J5Wb4inIGww3g3kWi-267Xiw
-documentLink: https://docs.google.com/document/d/1X1g0wU6riHyTbWuvIYP_4eU4hqVQOUCNzShjRvHuXh4/
----
-  
-<a id="h.8mb95zbilqqi" name="h.8mb95zbilqqi"></a>
-
 ## Exercise using Open Data 
 
 Read [this case study](https://theodi.org/article/openactive-addressing-inactivity-in-the-uk-case-study/) from the Open Data Institute on how open data has been used to promote physical activity in the UK . 

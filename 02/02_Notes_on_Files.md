@@ -1,12 +1,3 @@
----
-title: '02 Notes on Files'
-documentId: 1ACZ4iaq1KEXN1pU74SkzWfLZ1o2147lQVfXTqYROupo
-revisionId: ALBJ4Lv98teA5xrRlmZ4TfajvcWEP24KVuw8cE3ZdoqBCOLG4B1V62DkzpYMu1AUW7oLSN6q1YU2n-CeyxlkLQ
-documentLink: https://docs.google.com/document/d/1ACZ4iaq1KEXN1pU74SkzWfLZ1o2147lQVfXTqYROupo/
----
-  
-<a id="h.dal9ul2vzeix" name="h.dal9ul2vzeix"></a>
-
 ## Notes on Files
 
 _Suzanne Little, suzanne.little@dcu.ie_&nbsp;
@@ -24,7 +15,7 @@ The different file formats, sometimes indicated by the extension, are processed 
 
 A simple way to distinguish between **text**&nbsp;and **binary**&nbsp;files is to open the file in a text viewer like Notepad or Gedit. In Figure 1 below, you can see a screenshot from trying to open a binary file \(a PDF file\) in a text viewer, it looks like complete nonsense\! But the proper programme \(a PDF reader like Acrobat\) is able to interpret the binary data and render or show the PDF document. Text files are easier to read using programmes and libraries. A binary file is simply a non\-text file and common file formats include PDFs and older Microsoft Office documents \(note: newer Microsoft Office documents use an XML based text format\).
 
-![image](../../../images/02_Notes_on_Files/1.png)
+![image](../images/02_Notes_on_Files/1.png)
 
 _Figure 1: Screenshot of binary file open in text viewer_&nbsp;
 
