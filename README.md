@@ -18,7 +18,7 @@ Temporary access to key module materials
  * [Old video with excerpt from other module on Data Types, 27mins](https://youtu.be/Ew0AWqfQqbQ)
  * [Document: Notes on Files](02/02_Notes_on_Files.md)
  * [Document: Open Data](02/02_Notes_on_Files.md)
- * [Exercise: ](02/02_Exercise_using_Open_Data.md)
+ * [Exercise: Open Data](02/02_Exercise_using_Open_Data.md)
  * [Exercise: Linked Data](02/02_Linked_Data.md)
  * [Exercise: Files \& Spreadsheets](02/"02 Exercises with Data Files - Spreadsheets .docx")
 ----- 
