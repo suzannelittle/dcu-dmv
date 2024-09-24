@@ -14,7 +14,7 @@ If you ask a librarian, they might tell you that metadata is an “inferior type
 
 You’ve probably come across metadata before in schemas, data descriptions, specifications or catalogue data.
 
-![image](../../../images/Metadata/1.png)
+![image](../images/Metadata/1.png)
 
 _Figure 1: Database schema_&nbsp;
 
@@ -39,14 +39,13 @@ Importantly, metadata is also the place where information on rights management a
 
 There are different ways to think about metadata and explicit standards that you can use but it can be helpful to consider three different types of metadata:
 
-| **Descriptive:**,whattheinformationobjectisabout;inherentlyintrinsicproperties |
-|-|
-| **Administrative:**,who,what,why,whereoftheobject'screationandmanagement;inherentlyextrinsicproperties |
-| **Structural:**,informationaboutthestructure,format,andcompositionofthethingbeingdescribed;canbeintrinsicorextrinsic |
+| **Descriptive:** | what the information object is about; inherently intrinsic properties | 
+| **Administrative:** | who,what,why,where of the object's creation and management; inherently extrinsic properties | 
+| **Structural:** | information about the structure, format, and composition of the thing being described; can be intrinsic or extrinsic | 
 
 Let’s take a look at examples of metadata for a complex digital object. Watch the YouTube video at [https://youtu.be/Ts\-eUudbyLo](https://youtu.be/Ts-eUudbyLo) which provides an explanation of photo metadata.
 
-![image](../../../images/Metadata/2.png)
+![image](../images/Metadata/2.png)
 
 If you’d like to try extracting some EXIF from your own photos, there are various websites online that will do this. Or you can view the metadata fields using a photo editing tool like Adobe or GIMP or by right\-clicking on the image icon in Windows Explorer, choosing _Properties_ and then _Details_. 
 
@@ -83,11 +82,7 @@ Let’s discuss **abstraction**&nbsp;first.
 
 Imagine you have written a novel. It’s wildly successful and a second edition is published plus an audiobook read by your favourite actor\! Your story is the _work_. It is your artistic creation without any specific manifestation. The published story \(the book\) is an _expression_. This is the medium \(channel\) that expresses your work. The different published versions of the book are _manifestations_ of this expression and the specific instance of the book \(the autographed copy you keep on your shelf\) is an _item_. The audiobook is a different example of an expression. In this case, there is one work with two expressions, one expression has two manifestations and there are many thousands of items. The table below describes this abstraction hierarchy using this example.
 
-| **WORK**&nbsp; | **⇓**&nbsp; | **⇓**&nbsp; | **⇓**&nbsp; | anabstractentity;thedistinctintellectualorartisticcreation;ithasnosinglematerialmanifestation | “TheVeryCleverScientist”bySuzanneLittle | <spanstyle="font-size:9pt;">Title=”TheVeryCleverScientist”;Author=”SuzanneLittle”</span> |
-|-|-|-|-|-|-|-|
-| **EXPRESSION**&nbsp; | **⇓**&nbsp; | **⇓**&nbsp; | themultiplerealisationsofaworkinsomeparticularmediumornotation,whereitcanactuallybeperceived | ![image](../../../images/Metadata/3.png),![image](../../../images/Metadata/4.png), | <spanstyle="font-size:9pt;">Format=”hardcover”or</span> | <spanstyle="font-size:9pt;">Format=”audio/mp3”</span> |
-| **MANIFESTATION**&nbsp; | **⇓**&nbsp; | **⇓**&nbsp; | **⇓**&nbsp; | eachoftheformatsofanexpressionthathavethesameappearance;butnotnecessarilythesameimplementation | ![image](../../../images/Metadata/5.png),![image](../../../images/Metadata/6.png), | <spanstyle="font-size:9pt;">Edition=1st;ISBN=978...or</span> | <spanstyle="font-size:9pt;"></span> | <spanstyle="font-size:9pt;">Edition=2nd;ISBN=978...</span> |
-| **ITEM**&nbsp; | &nbsp;&nbsp; | asingleexemplarofamanifestation;ifwedistinguishthislevelitisbecauseotherwiseidenticalmanifestationshavesomedifferentiation | ![image](../../../images/Metadata/7.png), | <spanstyle="font-size:8pt;">Owner=”SuzanneLittle”;</span> | <spanstyle="font-size:8pt;">Protective\_Cover=”plastic”;</span> | <spanstyle="font-size:8pt;">Autograph=”MerylStreep”</span> |
+![image](../images/Metadata/9.png)
 
 Why is it useful to think about the levels of abstraction of metadata? Well, particularly in examples like the one given here, you need to consider which level in the hierarchy you are describing when you assess the value and usability of the metadata. This is also true of other examples where you have a manifestation of a creative work or a digital copy of a created physical object. Does the description apply to the specific physical copy of the book or to all instances of the story? **Consider**: who is the “artist” if I take a photograph of a sculpture?
 
@@ -95,7 +90,7 @@ Abstraction is one way that metadata can be structured. When dealing with comple
 
 Figure 1 below illustrates a granularity hierarchy that moves from very low\-level _features_&nbsp;describing the digital representation \(eg., things that can be calculated from the digital image pixels\) to slightly more complex _structure_&nbsp;feature descriptions that are calculated from these values. The next layer describes the meaning \(_semantics_\) that are represented in the digital object. The “semantic gap” refers to the difficulty in automatically \(i.e., without significant human effort\) creating the metadata that describes the meaning of a digital object. Finally, there is information that generally needs to be recorded by a human, _bibliographic_&nbsp;or management data about the creation and instance of the digital object. 
 
-![image](../../../images/Metadata/8.png)
+![image](../images/Metadata/8.png)
 
 _Diagram showing metadata granularity_&nbsp;
 
@@ -111,7 +106,7 @@ _<span style="font-size:14pt;">“The wonderful thing about standards is that th
 
 You should now understand why metadata is useful \(reminder: to Find, Locate, Identify, Select, Obtain and/or Navigate your data and for rights management\) and you’ve made some metadata of your own at different levels of granularity and hierarchy.
 
-If you haven’t done **[the exercise ](#h.ech5aof3tolq)**yet then go back and do it now. Take a look at the metadata you created. What terms did you use? Would everyone have described their book or movie in the same way?
+If you haven’t done [the exercise ](#h.ech5aof3tolq) yet then go back and do it now. Take a look at the metadata you created. What terms did you use? Would everyone have described their book or movie in the same way?
 
 This is where metadata standards are helpful. Standards can cause some problems \-\- perhaps it doesn’t include the information that you need or it’s just too big and complicated for your application. This is where the quote above is often used in many different subject areas\! 
 
@@ -131,37 +126,21 @@ Here I’ll discuss one of the most common, general standards: [Dublin Core](htt
 
 Named after the location of the first workshop in Dublin \(Ohio not Dublin, Ireland\!\) Dublin Core is a small set of vocabulary terms \(DC\) that can be used to describe both digital and physical resources. The semantics of DC was established by an international, cross\-disciplinary group of professionals from librarianship, computer science, text encoding, the museum community, and other related fields and is endorsed as a standard by official bodies including IETF, ISO and NISO. It was proposed in 1995 as a standard set of metadata elements, simple enough to be supplied by the document's author rather than a professional curator. All 15 elements are quite abstract \(administrative in the hierarchy we discussed\) and all are optional to allow full flexibility. There are many syntaxes for how you record and store the Dublin Core records including in formats such as XML and RDF for machine readability. 
 
-   &nbsp;&nbsp;&nbsp;
-
-   &nbsp;&nbsp;&nbsp;Title 
-
-   &nbsp;&nbsp;&nbsp;Identifier 
-
-   &nbsp;&nbsp;&nbsp;Subject 
-
-   &nbsp;&nbsp;&nbsp;Creator \(makes the content\)
-
-   &nbsp;&nbsp;&nbsp;Contributor 
-
-   &nbsp;&nbsp;&nbsp;Publisher 
-
-   &nbsp;&nbsp;&nbsp;Date 
-
-   &nbsp;&nbsp;&nbsp;Description 
-
-   &nbsp;&nbsp;&nbsp;Language 
-
-   &nbsp;&nbsp;&nbsp;Type \(the nature or genre\)
-
-   &nbsp;&nbsp;&nbsp;Rights 
-
-   &nbsp;&nbsp;&nbsp;Source \(if derived from another document or record\)
-
-   &nbsp;&nbsp;&nbsp;Relation 
-
-   &nbsp;&nbsp;&nbsp;Coverage 
-
-   &nbsp;&nbsp;&nbsp;Format 
+ * Title 
+ * Identifier 
+ * Subject 
+ * Creator \(makes the content\)
+ * Contributor 
+ * Publisher 
+ * Date 
+ * Description 
+ * Language 
+ * Type \(the nature or genre\)
+ * Rights 
+ * Source \(if derived from another document or record\)
+ * Relation 
+ * Coverage 
+ * Format 
 
 You can find some simple examples for each element at [https://www.dublincore.org/specifications/dublin\-core/usageguide/2000\-07\-16/generic/](https://www.dublincore.org/specifications/dublin-core/usageguide/2000-07-16/generic/) . Some of the elements can be further refined. For example: Date.Created and Date.Modified. More complete documentation can be found at [https://www.dublincore.org/resources/userguide/creating\_metadata/](https://www.dublincore.org/resources/userguide/creating_metadata/). 
 
