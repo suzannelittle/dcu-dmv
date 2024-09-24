@@ -21,6 +21,21 @@ Temporary access to key module materials
  * [Exercise: Open Data](02/02_Exercise_using_Open_Data.md)
  * [Exercise: Linked Data](02/02_Linked_Data.md)
  * [Exercise: Files \& Spreadsheets](02/02_Exercises_with_Data_Files_-_Spreadsheets_.md)
+
 ----- 
+
  ### Week 3: Big Data \& Metadata
- * [Video: Big Data -- watch before Thurs Sep 26!](https://youtu.be/xX-6KrYmMnA) 
+ * [Video: Big Data -- watch before Thurs Sep 26!](https://youtu.be/xX-6KrYmMnA)
+ * [Document: Notes on Big Data](03/03_Big_Data.md) 
+ * [Slides: Big Data](03/03_Big_Data.pdf)
+ * [Document: Metadata](03/03_Metadata.md)
+ * [Exercise: Describe your (big?) open data]()
+ * [Exercise: Getting data from APIs](03/Exercise_Getting_data_from_APIs.md)
+ * [Exercise: Scraping data from websites](03/Introduction_to_scraping_data_from_websites.md) 
+
+ -----
+
+ ### Week 4: Data Processing
+  * [Exercise: Getting \& knowing your data](04/More_exercises_in_getting_and_knowing_your_data.ipynb)
+  * [Document: Introduction to Jupyter Notebooks](03/Introduction_to_Jupyter_Notebooks.md)
+  * [Video: Introduction to Jupyter Notebook \(2020\)](https://youtu.be/-YadxRerPL4)
