@@ -1,12 +1,3 @@
----
-title: 'Introduction to Jupyter Notebooks'
-documentId: 1B6jwll2zgKFOcXszeFNmT0vpaH-07a45chnLKJjHYGE
-revisionId: ALBJ4Lt69L1cCokXaFjP8088EX4yZyAw2IN8B8odoebJf9Rga2kiGxYVeF4k7uc1fkCveXqqIVVE8R34cISAGA
-documentLink: https://docs.google.com/document/d/1B6jwll2zgKFOcXszeFNmT0vpaH-07a45chnLKJjHYGE/
----
-  
-<a id="h.y26bwnrg7bsd" name="h.y26bwnrg7bsd"></a>
-
 ## Introduction to Jupyter Notebooks
 
 _Suzanne Little, suzanne.little@dcu.ie_&nbsp;
@@ -23,7 +14,7 @@ To refresh your memory on how notebooks operate, read the [introduction](https:/
 
 Video: Introduction to Google Colab \- [https://www.youtube.com/watch?v=inN8seMm7UI](https://www.youtube.com/watch?v=inN8seMm7UI)
 
-![image](../../../images/Introduction_to_Jupyter_Notebooks/1.png)
+![image](../images/Introduction_to_Jupyter_Notebooks/1.png)
 
 Fig: Main components in the Jupyter notebook interface \(From [https://jupyter\-notebook.readthedocs.io/en/stable/notebook.html](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)\) 
 
@@ -50,7 +41,7 @@ Key features and functionality of notebooks that relevant to the data analytics 
 
    &nbsp;&nbsp;&nbsp;When you create exploratory or explanatory visualisations, jupyter allows you to display the resulting graph directly in the notebook. See some [examples](https://colab.research.google.com/notebooks/charts.ipynb) using Google Colab. 
 
-   &nbsp;&nbsp;&nbsp;![image](../../../images/Introduction_to_Jupyter_Notebooks/2.png)
+   &nbsp;&nbsp;&nbsp;![image](../images/Introduction_to_Jupyter_Notebooks/2.png)
 
    &nbsp;&nbsp;&nbsp;_Fig: Example showing an embedded line plot in a Google Colab notebook \(from:_&nbsp;_[here](https://colab.research.google.com/notebooks/charts.ipynb)\)_&nbsp;
 
@@ -60,7 +51,7 @@ Key features and functionality of notebooks that relevant to the data analytics 
 
    &nbsp;&nbsp;&nbsp;If you are working with mathematics for machine learning then documenting your functions is important. Using maths options in markdown you can include all sorts of mathematics directly in your text cells. Some more complicated examples can be seen in [this notebook](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html). 
 
-   &nbsp;&nbsp;&nbsp;![image](../../../images/Introduction_to_Jupyter_Notebooks/3.png)
+   &nbsp;&nbsp;&nbsp;![image](../images/Introduction_to_Jupyter_Notebooks/3.png)
 
    &nbsp;&nbsp;&nbsp;_Fig: Example of using MathJax to embed functions in a Jupyter notebook \(from:_&nbsp;_[here](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html#LaTeX-equations)\)_&nbsp;
 
@@ -119,7 +110,7 @@ The aim of this task is to:
 
 You can access the Google Colab for this exercise at [https://github.com/suzannelittle/ca682i/blob/master/notebooks/2\_1\_6\_Reading\_and\_formatting\_data.ipynb](https://github.com/suzannelittle/ca682i/blob/master/notebooks/2_1_6_Reading_and_formatting_data.ipynb). You can open the notebook in your Colab by clicking on the button \(image below\) and then save a copy to your own account to work on the exercise
 
-![image](../../../images/Introduction_to_Jupyter_Notebooks/4.png)
+![image](../images/Introduction_to_Jupyter_Notebooks/4.png)
 
 <a id="h.h8uqturhr3wy" name="h.h8uqturhr3wy"></a>
 
