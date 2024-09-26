@@ -29,7 +29,7 @@ Temporary access to key module materials
  * [Document: Notes on Big Data](03/03_Big_Data.md) 
  * [Slides: Big Data](03/03_Big_Data.pdf)
  * [Document: Metadata](03/03_Metadata.md)
- * [Exercise: Describe your (big?) open data]()
+ * [Exercise: Describe your (big?) open data](https://forms.gle/mHwTzWmkvxDYcMgL7)
  * [Exercise: Getting data from APIs](03/Exercise_Getting_data_from_APIs.md)
  * [Exercise: Scraping data from websites](03/Introduction_to_scraping_data_from_websites.md) 
 
