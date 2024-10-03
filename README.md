@@ -39,3 +39,4 @@ Temporary access to key module materials
   * [Exercise: Getting \& knowing your data](04/More_exercises_in_getting_and_knowing_your_data.ipynb)
   * [Document: Introduction to Jupyter Notebooks](03/Introduction_to_Jupyter_Notebooks.md)
   * [Video: Introduction to Jupyter Notebook \(2020\)](https://youtu.be/-YadxRerPL4)
+  * [Notebook: Introduction to Pandas](04/Intro_to_Pandas.ipynb)
