@@ -2,7 +2,7 @@
 
 _Suzanne Little, suzanne.little@dcu.ie_&nbsp;
 
-→ Video introduction of Jupyter and Colab \(2020\): [https://drive.google.com/file/d/1hUZHVY2qMUmv3gLjeuqM\_PQk3ThTU9kZ/view?usp=drive\_link](https://drive.google.com/file/d/1hUZHVY2qMUmv3gLjeuqM_PQk3ThTU9kZ/view?usp=drive_link)  
+→ [Video introduction of Jupyter and Colab \(2020\)](https://youtu.be/-YadxRerPL4)  
 
 You may have seen Jupyter Notebooks, eg: hosted on Google Colab, in previous courses. Here we are going to have a brief introduction to how they can be used to document a data management process.
 
